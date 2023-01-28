@@ -14,7 +14,7 @@ st.header('Billionaires datasets')
 
 
 
-df = pd.read_csv(file)
+#df = pd.read_csv(file)
 df = pd.read_csv('Billionaire.csv')
 
 
