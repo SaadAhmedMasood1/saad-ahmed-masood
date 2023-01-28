@@ -15,7 +15,7 @@ st.header('Billionaires datasets')
 
 
 df = pd.read_csv(file)
-#df = pd.read_csv('Billionair')
+df = pd.read_csv('Billionaire.csv')
 
 
 # find count of billionaire by countries
