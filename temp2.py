@@ -7,7 +7,7 @@ Created on Sat Jan 28 15:48:13 2023
 
 import pandas as pd
 import streamlit as st
-
+#import matplotlib as plt
 file = r'C:\Users\HP\Desktop\Karachi AI\Karachi AI (office PC)\Class\2nd day\Data Manipulation and Summary Analytics\Billionaire.csv'
 
 st.header('Billionaires datasets')
