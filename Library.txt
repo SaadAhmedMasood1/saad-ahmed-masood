@@ -1,0 +1,7 @@
+import streamlit as  st == 1.17.0
+import pandas as pd == 1.4.4
+import numpy as np == 1.21.5
+import matplotlib.pyplot as plt == 3.5.2
+import seaborn as sns == 0.11.2
+import altair as alt == 4.2.2
+from PIL import Image
